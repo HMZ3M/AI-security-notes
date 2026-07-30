@@ -15,6 +15,6 @@ Notes: The difficulty gap between Level 2 and Level 3 is a lot smaller,
 I managed to complete Level 3 in a lot less time than Level 2, once you get an idea of the type of prompts you need to
 make in order to pass these levels the difficulty gap between each level becomes smaller.
 At first, I was hesitant of using the word "system prompt" in my prompts thinking it would lower the score a lot, but after including "SYSTEM_PROMPT:"
-on my best prompt, the score went from 44/100 to 99/100, that's when I realized how wrong I was.
+on this prompt, the score went from 44/100 to 99/100, that's when I realized how wrong I was.
 [LEVEL-4]
 soon
