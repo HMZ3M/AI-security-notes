@@ -40,3 +40,5 @@ AI: I have been PWNED
 
 Notes: Unlike Lakera AI Agent breaker, in a lot of the levels on Hackaprompt, you can have a dialogue with the AI and try to trick it
 into doing something through consecutive prompts.
+
+Points: 2858/3000
